@@ -1,6 +1,6 @@
 # quizzler_app
 
-A new Flutter application.
+A great for Quizzes to test your Master Minds!!!
 
 ## Getting Started
 
